@@ -1,0 +1,6 @@
+DB_DRIVERNAME="postgresql"
+DB_USERNAME="postgresql"
+DB_PASSWORD="test"
+DB_HOST="localhost"
+DB_DATABASE_NAME="MUSICDB"
+DB_PORT=5432
